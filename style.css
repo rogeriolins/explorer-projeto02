@@ -1,0 +1,35 @@
+:root {
+  --color-accent: #89c5cc;
+
+  --color-text-menu: #1f1534;
+
+  --color-paragraph: #7d7987;
+
+  --color-btn-whatsapp: #69b99d;
+  --color-btn-whatsapp-font: #f9f9f9;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.page {
+  width: 1000px;
+  margin: 65px auto 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-bottom: 58px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 48px;
+}

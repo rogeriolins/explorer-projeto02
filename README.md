@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto 02 Extra é o website da Treine-me. Uma academia de atividades físicas fictícia.
+O Projeto 02 é o website da Treine-me. Uma academia de treinos personalizados fictícia.
 
 - [Acesse o projeto finalizado, online](https://rogeriolins.github.io/explorer-projeto02)
 
